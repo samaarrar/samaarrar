@@ -1,12 +1,12 @@
-<p><img src="samaarrar-profile%20new/header.svg" width="100%" alt="Sama — product designer"/></p>
+<p><img src="samaarrar-profile%20new/header.svg" width="100%" alt="Sama — UX/UI designer"/></p>
 
-I'm a product designer who cares about the details people feel but rarely notice: clear hierarchy, honest spacing, and interfaces that just make sense. Most of my work happens in Figma, where I take ideas from rough flows to polished, developer-ready designs.
+I'm a UX/UI designer who cares about the details people feel but rarely notice: clear hierarchy, honest spacing, and interfaces that just make sense. Most of my work happens in Figma, where I take ideas from rough flows to polished, developer-ready designs.
 
 ### What I work on
 
-<p><img src="samaarrar-profile%20new/work.svg" width="100%" alt="Product and UI design, design systems, prototypes and developer handoff"/></p>
+<p><img src="samaarrar-profile%20new/work.svg" width="100%" alt="UX and UI design, design systems, prototypes and developer handoff"/></p>
 
-- **Product and UI design**, from early wireframes to high-fidelity screens
+- **UX and UI design**, from early wireframes to high-fidelity screens
 - **Design systems** with tokens, variables, components and documentation
 - **Interactive prototypes** for usability testing and stakeholder reviews
 - **Developer handoff** with clean specs, so what ships matches what was designed
@@ -45,6 +45,6 @@ I'm building out a component library with variables and modes, and learning fron
 
 ### Get in touch
 
-[Portfolio](https://github.com/samaarrar) · [LinkedIn](https://linkedin.com/in/samaarrar) · [Figma Community](https://figma.com/@samaarrar) · [Email](mailto:hello@example.com)
+[LinkedIn](https://www.linkedin.com/in/sama-arrar-965299267/) · [Email](mailto:samaarrar@gmail.com) · [Figma Community](https://www.figma.com/@ssammaa)
 
-<a href="mailto:hello@example.com"><img src="samaarrar-profile%20new/footer.svg" width="100%" alt="Say hello"/></a>
+<a href="mailto:samaarrar@gmail.com"><img src="samaarrar-profile%20new/footer.svg" width="100%" alt="Say hello"/></a>
