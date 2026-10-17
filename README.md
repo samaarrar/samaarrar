@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A259FF,50:F24E1E,100:1ABCFE&height=220&section=header&text=Hi,%20I'm%20Your%20Name&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Product%20Designer%20%E2%9C%A6%20Figma%20Native%20%E2%9C%A6%20Pixel%20Perfectionist&descAlignY=56&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A259FF,50:F24E1E,100:1ABCFE&height=220&section=header&text=Hi,%20I'm%20Sama%20Name&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Product%20Designer%20%E2%9C%A6%20Figma%20Native%20%E2%9C%A6%20Pixel%20Perfectionist&descAlignY=56&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=22&pause=1200&color=A259FF&center=true&vCenter=true&width=620&lines=Designing+interfaces+people+enjoy+%E2%9C%A6;Building+scalable+design+systems;Auto+Layout+is+my+love+language;From+wireframe+%E2%86%92+prototype+%E2%86%92+shipped" alt="Typing SVG" />
 
