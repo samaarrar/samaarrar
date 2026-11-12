@@ -1,50 +1,32 @@
-<p><img src="samaarrar-profile%20new/header.svg" width="100%" alt="Sama — UX/UI designer"/></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="samaarrar-profile%20new/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="samaarrar-profile%20new/header-light.svg">
+  <img src="samaarrar-profile%20new/header-dark.svg" width="100%" alt="sama arrar, ux/ui designer at zain kuwait">
+</picture>
 
-I'm a UX/UI designer who cares about the details people feel but rarely notice: clear hierarchy, honest spacing, and interfaces that just make sense. Most of my work happens in Figma, where I take ideas from rough flows to polished, developer-ready designs.
+<p align="center">
+I design app and web journeys that feel simple,<br/>
+from the first rough flow to a developer-ready file.
+</p>
 
-### What I work on
+<p align="center"><b>Portfolio → <a href="https://samaarrar.github.io">samaarrar.github.io</a></b></p>
 
-<p><img src="samaarrar-profile%20new/work.svg" width="100%" alt="UX and UI design, design systems, prototypes and developer handoff"/></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="samaarrar-profile%20new/inspect-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="samaarrar-profile%20new/inspect-light.svg">
+  <img src="samaarrar-profile%20new/inspect-dark.svg" width="100%" alt="Inspect: a button morphing between four styles while its CSS updates live">
+</picture>
 
-- **UX and UI design**, from early wireframes to high-fidelity screens
-- **Design systems** with tokens, variables, components and documentation
-- **Interactive prototypes** for usability testing and stakeholder reviews
-- **Developer handoff** with clean specs, so what ships matches what was designed
+<br/>
 
-### Toolkit
+<p align="center">
+<sub>TOOLKIT</sub><br/>
+<code>Figma</code> <code>FigJam</code> <code>ProtoPie</code> <code>Canva</code> <code>Photoshop</code> <code>Notion</code>
+</p>
 
-<img src="samaarrar-profile%20new/toolkit.svg" width="100%" alt="Figma, FigJam, ProtoPie, Adobe Illustrator, Photoshop, Notion, HTML, CSS"/>
+<br/>
 
-### Selected work
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<a href="https://github.com/samaarrar"><img src="samaarrar-profile%20new/project-1.svg" width="100%" alt="Project one"/></a>
-<br/><b><a href="https://github.com/samaarrar">Project one</a></b><br/>
-A short line about the problem and what you designed
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/samaarrar"><img src="samaarrar-profile%20new/project-2.svg" width="100%" alt="Project two"/></a>
-<br/><b><a href="https://github.com/samaarrar">Project two</a></b><br/>
-A design system, case study, or app redesign
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/samaarrar"><img src="samaarrar-profile%20new/project-3.svg" width="100%" alt="Project three"/></a>
-<br/><b><a href="https://github.com/samaarrar">Project three</a></b><br/>
-A Figma Community file, plugin, or side project
-</td>
-</tr>
-</table>
-
-### Right now
-
-<p><img src="samaarrar-profile%20new/now.svg" width="100%" alt="Building a component library and learning front-end"/></p>
-
-I'm building out a component library with variables and modes, and learning front-end development to work more closely with engineers.
-
-### Get in touch
-
-[LinkedIn](https://www.linkedin.com/in/sama-arrar-965299267/) · [Email](mailto:samaarrar@gmail.com) · [Figma Community](https://www.figma.com/@ssammaa)
-
-<a href="mailto:samaarrar@gmail.com"><img src="samaarrar-profile%20new/footer.svg" width="100%" alt="Say hello"/></a>
+<p align="center">
+<b>Let's make something nice.</b><br/>
+<a href="mailto:samaarrar@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/sama-arrar-965299267/">LinkedIn</a> · <a href="https://www.figma.com/@ssammaa">Figma</a>
+</p>
