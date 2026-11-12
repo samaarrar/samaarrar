@@ -11,11 +11,15 @@ from the first rough flow to a developer-ready file.
 
 <p align="center"><b>Portfolio → <a href="https://samaarrar.github.io">samaarrar.github.io</a></b></p>
 
+<a href="https://samaarrar.github.io/inspect-playground/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="samaarrar-profile%20new/inspect-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="samaarrar-profile%20new/inspect-light.svg">
   <img src="samaarrar-profile%20new/inspect-dark.svg" width="100%" alt="Inspect: a button morphing between four styles while its CSS updates live">
 </picture>
+</a>
+
+<p align="center"><a href="https://samaarrar.github.io/inspect-playground/"><b>▶ Try it live</b></a> <sub>&nbsp;drag the sliders, change the colours, pet the cat</sub></p>
 
 <br/>
 
